@@ -1,8 +1,6 @@
 *{
     padding: 0px;
     margin: 0px;
-
-    /*اندازه حفظ*/
     box-sizing: border-box;
 }
 
@@ -10,8 +8,6 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-
-    /*۱۰۰ درصد صفحه*/
     height: 100vh;
 
     background-color: purple;
